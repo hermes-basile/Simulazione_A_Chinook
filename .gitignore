@@ -1,0 +1,6 @@
+# Virtual environment and IDE files
+.venv/
+venv/
+.idea/
+__pycache__/
+*.py[cod]
